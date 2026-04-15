@@ -5,7 +5,7 @@ AOS.init({
 });
 
 // --- KONFIGURASI ---
-const correctPass = "240924"; // Tanggal jadian (Password)
+const correctPass = "112325"; // Tanggal jadian (Password)
 
 // Fungsi Cek Password
 function checkPassword() {
@@ -57,9 +57,9 @@ function startTypewriter() {
         waitUntilVisible: true,
         cursor: true,
     })
-    .type("Untuk Keya, perempuanku.")
+    .type("Untuk kulkul, perempuanku.")
     .pause(1000).break()
-    .type("Selamat datang di usia 20 tahun.")
+    .type("Selamat datang di usia 17tahun.")
     .pause(500).break()
     .type("Dunia mungkin akan semakin berisik,")
     .pause(500)
